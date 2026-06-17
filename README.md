@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shehzad Anwar</h1>
-<h3 align="center">A passionate Front-end developer from Pakistan</h3>
+# Hi, I'm Shehzad Anwar
+<a href="https://www.linkedin.com/in/ishehzadanwar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishehzadanwar&label=Profile%20views&color=0e75b6&style=flat" alt="ishehzadanwar" /> </p>
+I am a recent graduate with a profound interest in technology and a dedication to solving problems.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+
 
 - 🌱 I’m currently learning **Web Development**
 
